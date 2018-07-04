@@ -1,0 +1,70 @@
+fonctionnalité :
+
+	profil :
+
+		créer profil :
+
+			pseudo
+			mél
+			mdp (crypté)
+			point généraux
+			classement
+			avatar	
+		
+		changement de mdp
+		changement de mél
+		changement d'avatar
+		
+	classement :
+
+		affichage du classement en fonction des points généraux
+		systeme de classement général en fonction des points généraux
+		
+	parties :
+		afficher liste des parties (important)
+		créer une parties (important)
+
+			definition du temps de réponse
+			definition du temps de repassage de la music
+			définition du nombre de point pour finir la partie
+			mode de jeu :(à cocher)
+				
+				jeu vidéo
+				ost insert anime
+				anime op
+				anime ed
+		
+			systeme de scoring en fonction du nombre de joueur (hippo / animequizz) (important) 
+			systeme de scoring comme pururin
+			systeme de scoring 1 point si trouvé
+			
+		supprimé partie (quand plus de joueur ou fini) (important)
+		
+		réponse :
+			
+			choix des réponse par le clique nombre défini par nous (important)
+			choix des réponse en tapant le nom du manga
+			enregistrement du temps de réponse pour attribution des points
+		
+		affichage des joueurs dans la partie :
+			
+			pseudo (important)
+			avatar
+			score in-game (important)
+			classement in-game	
+		resultat d'un son :
+			
+			affichage de l'image du jv / anime
+			attribuer des points en fonction du temps de réponse et du mode de jeu
+			
+		fin de parties :
+		
+			afficher un classement trier avec le score in-game : (important)
+				
+				avatar
+				nom (important)
+				score (important)
+				ajout de point au classement général
+
+	responsive pour 1080 720 (important)
+	responsive pour mobile
