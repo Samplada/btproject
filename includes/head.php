@@ -1,7 +1,5 @@
 <?php
-
 $baseurl = "https://azenox.fr/btproject";
-
 ?>
 
 
