@@ -1,0 +1,37 @@
+:root{
+    --col-dark-grey: #424242;
+    --col-light-grey: #e0e0e0;
+    --col-purple: #4527a0;
+}
+
+
+body{
+    background-color: var(--col-dark-grey);
+}
+h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Montserrat', sans-serif;
+}
+::placeholder { 
+    color: #666;
+}
+
+
+nav div.nav-wrapper{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+
+#form-wrapper{
+    display: flex;
+    justify-content: space-around;
+    margin: 4%;
+}
+form{
+    background-color: var(--col-light-grey);
+    padding: 4% 2% 4% 2%;
+    
+    text-align: center;
+    border: 7px solid var(--col-purple);
+    border-radius: 4px;
+}
