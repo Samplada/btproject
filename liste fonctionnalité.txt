@@ -6,7 +6,7 @@ fonctionnalité :
 
 			pseudo
 			mél
-			mdp (crypté)
+			mdp (hasher)
 			point généraux
 			classement
 			avatar	
@@ -26,13 +26,15 @@ fonctionnalité :
 
 			definition du temps de réponse
 			definition du temps de repassage de la music
-			définition du nombre de point pour finir la partie
+			définition du nombre de music
 			mode de jeu :(à cocher)
 				
 				jeu vidéo
 				ost insert anime
-				anime op
-				anime ed
+				anime op + anime ed
+				film/séries
+				artiste music
+				
 		
 			systeme de scoring en fonction du nombre de joueur (hippo / animequizz) (important) 
 			systeme de scoring comme pururin
@@ -43,9 +45,11 @@ fonctionnalité :
 		réponse :
 			
 			choix des réponse par le clique nombre défini par nous (important)
-			choix des réponse en tapant le nom du manga
+			choix des réponse en tapant le nom du manga (voir les 2 ) ( recherche en fonction d'expression émon pokemon)
 			enregistrement du temps de réponse pour attribution des points
-		
+			afficher image + nom de l'anime jv film
+			ajouter temps suplementaire(avant payant nombre limité ou apres pas gratuit)
+			
 		affichage des joueurs dans la partie :
 			
 			pseudo (important)
@@ -65,6 +69,14 @@ fonctionnalité :
 				nom (important)
 				score (important)
 				ajout de point au classement général
-
+		
+		connection a la parties
+		
+			
 	responsive pour 1080 720 (important)
 	responsive pour mobile
+	
+	séparation cas par cas
+	proportion quand film tombe
+	
+	abonnement
